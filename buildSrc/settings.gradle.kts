@@ -1,0 +1,1 @@
+rootProject.name = "compose-like-button-buildSrc"
